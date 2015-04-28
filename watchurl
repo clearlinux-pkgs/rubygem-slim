@@ -1,0 +1,3 @@
+# rubygem-cells requires version (>=0)
+# check: https://rubygems.org/gems/cells/versions/3.11.3
+watchurl=https://rubygems.org/gems/slim/versions/(*)

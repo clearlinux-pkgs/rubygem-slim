@@ -1,0 +1,13 @@
+# This file contains additional build requirements that did not get
+# picked up automatically. One name per line, no whitespace.
+ruby
+rubygem-builder
+rubygem-minitest
+rubygem-rake
+rubygem-rdoc
+rubygem-redcarpet
+rubygem-sass
+rubygem-temple
+rubygem-tilt
+rubygem-asciidoctor
+rubygem-creole

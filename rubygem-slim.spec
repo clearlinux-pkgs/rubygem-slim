@@ -4,7 +4,7 @@
 #
 Name     : rubygem-slim
 Version  : 3.0.6
-Release  : 7
+Release  : 8
 URL      : https://rubygems.org/downloads/slim-3.0.6.gem
 Source0  : https://rubygems.org/downloads/slim-3.0.6.gem
 Summary  : No detailed summary available

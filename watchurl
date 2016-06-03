@@ -1,3 +1,4 @@
-# rubygem-cells requires version (>=0)
-# check: https://rubygems.org/gems/cells/versions/3.11.3
-watchurl=https://rubygems.org/gems/slim/versions/(*)
+# File auto-generated with 'Watchfile generator'
+# 2016-05-06 18:22:16.294198
+# {'development', '>=0', '~>2.0.0'}
+watchurl=https://rubygems.org/gems/slim/versions/([0-2]\.0(?:\.[0-9]{1,2})*)

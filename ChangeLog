@@ -1,3 +1,8 @@
+3.0.7 (2016-05-22)
+
+  * Add additional attributes feature to shortcuts
+  * Freeze string literals
+
 3.0.6 (2015-06-05)
 
   * Fix warnings #625
